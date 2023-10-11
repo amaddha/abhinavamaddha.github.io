@@ -1,13 +1,15 @@
-title: John Doe # your name (or website title) here
+title: Abhinava Maddha # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello! I am Abhinava, a Computer Science graduate student at UMass Amherst. 
   <br><br>
-  Second description 
+  I have done multiple internships in the Machine Learning and Deep Learning domains and interesting projects like building a navigation system, a few Hate Speech Detection ones in NLP, recommender systems, etc. I have also worked as a Data Analyst intern at Uber and worked as a graduate research student at the IESL(UMass) for two months contributing to a project that aims to improve compositional generalization in semantic parsing tasks (NLU). I am actively looking for internships (for Summer 2024) where I can work on Data Science and Machine Learning projects. Please reach out if you know of any openings!  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/abhinavamaddha/">View My LinkedIn Profile</a>
+  <br><br> 
+  <a href="https://github.com/amaddha/">View My Github Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-67Y6NVYSQX # your Google Analytics tracking ID here
